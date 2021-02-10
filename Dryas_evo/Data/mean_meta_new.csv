@@ -1,0 +1,169 @@
+,X,Object.ID,scan.name,LMA,Leaf.Area..cm2.,Leaf.mass..g.,SLA,Species,Location,Notes,Species_ID,GenePop_ID,SpeciesLoc_ID,Clone,sp_loc,genetic_name,Name,DA
+1,174.5,394.75,"es-dry_00001, es-dry_00002, es-dry_00003, es-dry_00005",0.013797054,6.11,0.0843,72.47924081,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa01_DA,DryalaESA1,0.9864
+2,178.5,449.5,"es-dry_00055, es-dry_00057, es-dry_00058, es-dry_00060",0.010254902,15.3,0.1569,97.51434034,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa10_DA,DryalaESA10,0.9696
+3,182.5,455.5,"es-dry_00062, es-dry_00063, es-dry_00064, es-dry_00065",0.011569507,11.15,0.129,86.43410853,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa11_DA,DryalaESA11,0.943
+4,186.5,468.5,"es-dry_00075, es-dry_00076, es-dry_00077, es-dry_00078",0.014118439,7.43,0.1049,70.8293613,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa13_DA,DryalaESA13,0.9332
+5,190.5,484.5,"es-dry_00091, es-dry_00092, es-dry_00093, es-dry_00094",0.011788129,13.31,0.1569,84.83110261,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa16_DA,DryalaESA16,0.975
+6,194.5,491.25,"es-dry_00097, es-dry_00099, es-dry_00100, es-dry_00101",0.012631048,9.92,0.1253,79.16999202,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa17_DA,DryalaESA17,0.9044
+7,198.5,502.5,"es-dry_00109, es-dry_00110, es-dry_00111, es-dry_00112",0.012666667,8.1,0.1026,78.94736842,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa19_DA,DryalaESA19,0.918
+8,202.5,401.25,"es-dry_00007, es-dry_00008, es-dry_00010, es-dry_00012",0.013053506,10.84,0.1415,76.60777385,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa02_DA,DryalaESA2,0.9344
+9,206.5,510.5,"es-dry_00117, es-dry_00118, es-dry_00119, es-dry_00120",0.010258065,10.85,0.1113,97.48427673,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa20_DA,DryalaESA20,0.9538
+10,210.5,522,"es-dry_00127, es-dry_00130, es-dry_00131, es-dry_00132",0.011180359,10.59,0.1184,89.44256757,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa22_DA,DryalaESA22,0.9264
+11,214.5,527,"es-dry_00133, es-dry_00134, es-dry_00136, es-dry_00137",0.013108108,7.4,0.097,76.28865979,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa23_DA,DryalaESA23,0.959
+12,218.5,539,"es-dry_00145, es-dry_00146, es-dry_00148, es-dry_00149",0.010573066,6.98,0.0738,94.5799458,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa25_DA,DryalaESA25,0.9558
+13,222.5,545.75,"es-dry_00152, es-dry_00153, es-dry_00154, es-dry_00156",0.010634921,19.53,0.2077,94.02985075,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa26_DA,DryalaESA26,0.9742
+14,226.5,551.75,"es-dry_00158, es-dry_00159, es-dry_00160, es-dry_00162",0.013284839,13.06,0.1735,75.27377522,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa27_DA,DryalaESA27,0.9906
+15,230.5,563.5,"es-dry_00169, es-dry_00170, es-dry_00173, es-dry_00174",0.009664915,15.22,0.1471,103.4670292,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa29_DA,DryalaESA29,0.9232
+16,234.5,568.75,"es-dry_00175, es-dry_00176, es-dry_00177, es-dry_00179",0.010159109,12.57,0.1277,98.43382929,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa30_DA,DryalaESA30,0.9568
+17,238.5,580.5,"es-dry_00187, es-dry_00188, es-dry_00189, es-dry_00190",0.011075697,12.55,0.139,90.28776978,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa32_DA,DryalaESA32,0.9584
+18,242.5,431.5,"es-dry_00038, es-dry_00039, es-dry_00040, es-dry_00041",0.021944444,6.48,0.1422,45.56962025,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa07_DA,DryalaESA7,0.962
+19,246.5,443.5,"es-dry_00050, es-dry_00051, es-dry_00052, es-dry_00053",0.01234362,11.99,0.148,81.01351351,alaskensis,Eagle Summit,NA,DA,DA,DA_esa,No,DA_es,esa09_DA,DryalaESA9,0.907
+20,2.5,124.5,"dryala-tm1_00003, dryala-tm1_00004, dryala-tm1_00005, dryala-tm1_00006",0.014419643,6.72,0.0969,69.3498452,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi01_DA,DryalaTM1,0.9944
+21,6.5,176.5,"dryala-tm10_00055, dryala-tm10_00056, dryala-tm10_00057, dryala-tm10_00058",0.013012458,8.83,0.1149,76.84943429,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi10_DA,DryalaTM10,0.9802
+22,10.5,184.5,"dryala-tm11_00063, dryala-tm11_00064, dryala-tm11_00065, dryala-tm11_00066",0.012755966,12.99,0.1657,78.3946892,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi11_DA,DryalaTM11,0.9804
+23,14.5,196,"dryala-tm13_00074, dryala-tm13_00075, dryala-tm13_00077, dryala-tm13_00078",0.012911585,6.56,0.0847,77.4498229,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi13_DA,DryalaTM13,0.9918
+24,18.5,202,"dryala-tm14_00080, dryala-tm14_00081, dryala-tm14_00083, dryala-tm14_00084",0.013064877,8.94,0.1168,76.54109589,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi14_DA,DryalaTM14,0.995
+25,22.5,208.75,"dryala-tm15_00087, dryala-tm15_00088, dryala-tm15_00089, dryala-tm15_00091",0.011180061,9.83,0.1099,89.44494995,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi15_DA,DryalaTM15,0.965
+26,26.5,213.5,"dryala-tm16_00092, dryala-tm16_00093, dryala-tm16_00094, dryala-tm16_00095",0.010298913,18.4,0.1895,97.09762533,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi16_DA,DryalaTM16,0.9972
+27,30.5,220.5,"dryala-tm17_00099, dryala-tm17_00100, dryala-tm17_00101, dryala-tm17_00102",0.01349277,8.99,0.1213,74.11376752,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi17_DA,DryalaTM17,0.993
+28,34.5,225.25,"dryala-tm18_00103, dryala-tm18_00105, dryala-tm18_00106, dryala-tm18_00107",0.010717092,10.18,0.1091,93.30889093,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi18_DA,DryalaTM18,0.9948
+29,38.5,231,"dryala-tm19_00109, dryala-tm19_00110, dryala-tm19_00112, dryala-tm19_00113",0.012898707,9.28,0.1197,77.52715121,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi19_DA,DryalaTM19,0.8936
+30,42.5,129,"dryala-tm2_00007, dryala-tm2_00008, dryala-tm2_00010, dryala-tm2_00011",0.013733719,6.91,0.0949,72.81348788,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi02_DA,DryalaTM2,0.9956
+31,46.5,236.75,"dryala-tm20_00115, dryala-tm20_00116, dryala-tm20_00117, dryala-tm20_00119",0.013553371,7.12,0.0965,73.78238342,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi20_DA,DryalaTM20,0.956
+32,50.5,135.5,"dryala-tm3_00013, dryala-tm3_00014, dryala-tm3_00017, dryala-tm3_00018",0.012263314,6.76,0.0829,81.54402895,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi03_DA,DryalaTM3,0.9846
+33,54.5,142,"dryala-tm4_00019, dryala-tm4_00022, dryala-tm4_00023, dryala-tm4_00024",0.009898348,7.87,0.0779,101.0269576,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi04_DA,DryalaTM4,0.9872
+34,58.5,147,"dryala-tm5_00025, dryala-tm5_00026, dryala-tm5_00028, dryala-tm5_00029",0.012787724,7.82,0.1,78.2,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi05_DA,DryalaTM5,0.9938
+35,62.5,154,"dryala-tm6_00031, dryala-tm6_00034, dryala-tm6_00035, dryala-tm6_00036",0.012055623,8.27,0.0997,82.94884654,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi06_DA,DryalaTM6,0.9788
+36,66.5,158.5,"dryala-tm7_00037, dryala-tm7_00038, dryala-tm7_00039, dryala-tm7_00040",0.012427746,8.65,0.1075,80.46511628,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi07_DA,DryalaTM7,0.9768
+37,70.5,166.25,"dryala-tm8_00044, dryala-tm8_00046, dryala-tm8_00047, dryala-tm8_00048",0.013905229,6.12,0.0851,71.91539365,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi08_DA,DryalaTM8,0.9936
+38,74.5,172,"dryala-tm9_00050, dryala-tm9_00051, dryala-tm9_00053, dryala-tm9_00054",0.010747126,10.44,0.1122,93.04812834,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi09_DA,DryalaTM9,0.9964
+39,342.5,1126.75,"wdb-dry_00002, wdb-dry_00003, wdb-dry_00004, wdb-dry_00006",0.012510013,7.49,0.0937,79.93596585,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb01_DA,DryalaWDB1,0.9118
+40,346.5,1180.5,"wdb-dry_00055, wdb-dry_00057, wdb-dry_00058, wdb-dry_00060",0.014090909,6.6,0.093,70.96774194,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb10_DA,DryalaWDB10,0.9008
+41,350.5,1186,"wdb-dry_00061, wdb-dry_00062, wdb-dry_00063, wdb-dry_00066",0.011619718,12.78,0.1485,86.06060606,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb11_DA,DryalaWDB11,0.7486
+42,354.5,1193.5,"wdb-dry_00069, wdb-dry_00070, wdb-dry_00071, wdb-dry_00072",0.013110505,7.33,0.0961,76.27471384,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb12_DA,DryalaWDB12,0.8336
+43,358.5,1132.25,"wdb-dry_00007, wdb-dry_00009, wdb-dry_00010, wdb-dry_00011",0.011702432,6.99,0.0818,85.45232274,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb02_DA,DryalaWDB2,0.9912
+44,362.5,1137.5,"wdb-dry_00013, wdb-dry_00014, wdb-dry_00015, wdb-dry_00016",0.01295082,5.49,0.0711,77.21518987,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb03_DA,DryalaWDB3,0.7258
+45,366.5,1144.5,"wdb-dry_00019, wdb-dry_00020, wdb-dry_00023, wdb-dry_00024",0.012643678,6.96,0.088,79.09090909,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb04_DA,DryalaWDB4,0.8652
+46,370.5,1150.75,"wdb-dry_00026, wdb-dry_00027, wdb-dry_00028, wdb-dry_00030",0.019636076,6.32,0.1241,50.92667204,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb05_DA,DryalaWDB5,0.9678
+47,378.5,1162.5,"wdb-dry_00038, wdb-dry_00039, wdb-dry_00040, wdb-dry_00041",0.011756579,15.2,0.1787,85.05875769,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb07_DA,DryalaWDB7,0.9098
+48,382.5,1169,"wdb-dry_00044, wdb-dry_00045, wdb-dry_00047, wdb-dry_00048",0.012603424,14.02,0.1767,79.34352009,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb08_DA,DryalaWDB8,0.8294
+49,386.5,1174.5,"wdb-dry_00050, wdb-dry_00051, wdb-dry_00052, wdb-dry_00053",0.014196617,9.46,0.1343,70.43931497,alaskensis,Wickersham Dome B,NA,DA,DA,DA_wdb,No,DA_wdb,wdb09_DA,DryalaWDB9,0.9574
+50,78.5,242.5,"dryhyb-tm41_00245, dryhyb-tm41_00246, dryhyb-tm41_00247, dryhyb-tm41_00248",0.006417722,7.9,0.0507,155.8185404,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi41_DA,DryhybTM41,0.9076
+51,82.5,254.5,"dryhyb-tm43_00257, dryhyb-tm43_00258, dryhyb-tm43_00259, dryhyb-tm43_00260",0.012470462,9.31,0.1161,80.18949182,alaskensis,Twelve Mile,NA,DA,DA,DA_tmi,No,DA_tm,tmi43_DA,DryhybTM43,0.9778
+52,622.5,3.75,"BG_dryoct_00001, BG_dryoct_00003, BG_dryoct_00005, BG_dryoct_00006",0.012637681,3.45,0.0436,79.12844037,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc01_DO,DryoctBG1,0.0468
+53,626.5,58.5,"BG_dryoct_00057, BG_dryoct_00058, BG_dryoct_00059, BG_dryoct_00060",0.014502488,4.02,0.0583,68.95368782,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc10_DO,DryoctBG10,0.0396
+54,630.5,64.5,"BG_dryoct_00063, BG_dryoct_00064, BG_dryoct_00065, BG_dryoct_00066",0.009273356,2.89,0.0268,107.8358209,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc11_DO,DryoctBG11,0.0384
+55,634.5,70.5,"BG_dryoct_00069, BG_dryoct_00070, BG_dryoct_00071, BG_dryoct_00072",0.013313609,3.38,0.045,75.11111111,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc12_DO,DryoctBG12,0.0634
+56,638.5,74.75,"BG_dryoct_00073, BG_dryoct_00074, BG_dryoct_00075, BG_dryoct_00077",0.013040153,5.23,0.0682,76.68621701,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc13_DO,DryoctBG13,0.088
+57,642.5,80.75,"BG_dryoct_00079, BG_dryoct_00080, BG_dryoct_00081, BG_dryoct_00083",0.012657143,3.5,0.0443,79.00677201,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc14_DO,DryoctBG14,0.0502
+58,646.5,88.25,"BG_dryoct_00086, BG_dryoct_00088, BG_dryoct_00089, BG_dryoct_00090",0.011367673,5.63,0.064,87.96875,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc15_DO,DryoctBG15,0.0392
+59,650.5,94.25,"BG_dryoct_00092, BG_dryoct_00094, BG_dryoct_00095, BG_dryoct_00096",0.013228621,5.73,0.0758,75.59366755,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc16_DO,DryoctBG16,0.0456
+60,654.5,100.5,"BG_dryoct_00099, BG_dryoct_00100, BG_dryoct_00101, BG_dryoct_00102",0.011309013,4.66,0.0527,88.42504744,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc17_DO,DryoctBG17,0.0598
+61,658.5,105,"BG_dryoct_00103, BG_dryoct_00104, BG_dryoct_00106, BG_dryoct_00107",0.009172932,7.98,0.0732,109.0163934,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc18_DO,DryoctBG18,0.0658
+62,662.5,111.25,"BG_dryoct_00109, BG_dryoct_00110, BG_dryoct_00112, BG_dryoct_00114",0.00995365,8.63,0.0859,100.4656577,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc19_DO,DryoctBG19,0.0602
+63,666.5,10,"BG_dryoct_00008, BG_dryoct_00009, BG_dryoct_00011, BG_dryoct_00012",0.010978261,4.6,0.0505,91.08910891,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc02_DO,DryoctBG2,0.042
+64,670.5,118.5,"BG_dryoct_00117, BG_dryoct_00118, BG_dryoct_00119, BG_dryoct_00120",0.009328622,11.32,0.1056,107.1969697,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc20_DO,DryoctBG20,0.0622
+65,674.5,15.5,"BG_dryoct_00014, BG_dryoct_00015, BG_dryoct_00016, BG_dryoct_00017",0.010362438,6.07,0.0629,96.50238474,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc03_DO,DryoctBG3,0.0342
+66,678.5,22,"BG_dryoct_00019, BG_dryoct_00022, BG_dryoct_00023, BG_dryoct_00024",0.010593472,3.37,0.0357,94.3977591,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc04_DO,DryoctBG4,0.0416
+67,682.5,28,"BG_dryoct_00025, BG_dryoct_00028, BG_dryoct_00029, BG_dryoct_00030",0.010878788,3.3,0.0359,91.92200557,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc05_DO,DryoctBG5,0.0638
+68,686.5,33.25,"BG_dryoct_00031, BG_dryoct_00032, BG_dryoct_00034, BG_dryoct_00036",0.010857843,4.08,0.0443,92.0993228,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc06_DO,DryoctBG6,0.0364
+69,690.5,39.25,"BG_dryoct_00037, BG_dryoct_00038, BG_dryoct_00040, BG_dryoct_00042",0.010764045,4.45,0.0479,92.90187891,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc07_DO,DryoctBG7,0.0328
+70,694.5,44.75,"BG_dryoct_00043, BG_dryoct_00044, BG_dryoct_00045, BG_dryoct_00047",0.010600858,4.66,0.0494,94.33198381,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc08_DO,DryoctBG8,0.0262
+71,698.5,51.5,"BG_dryoct_00049, BG_dryoct_00051, BG_dryoct_00052, BG_dryoct_00054",0.011185345,4.64,0.0519,89.4026975,octopetala,Bison Gulch,NA,DO,DO_bgc,DO_bgc,No,DO_bg,bgc09_DO,DryoctBG9,0.088
+72,258.5,586.5,"es-dry_00193, es-dry_00194, es-dry_00195, es-dry_00196",0.011273792,6.83,0.077,88.7012987,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa33_DO,DryoctESA33,0.0764
+73,262.5,591.25,"es-dry_00197, es-dry_00199, es-dry_00200, es-dry_00201",0.011015228,3.94,0.0434,90.78341014,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa34_DO,DryoctESA34,0.0154
+74,266.5,603,"es-dry_00209, es-dry_00210, es-dry_00212, es-dry_00213",0.012475634,5.13,0.064,80.15625,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa36_DO,DryoctESA36,0.0254
+75,270.5,615.25,"es-dry_00221, es-dry_00222, es-dry_00224, es-dry_00226",0.01368336,6.19,0.0847,73.08146399,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa38_DO,DryoctESA38,0.0134
+76,274.5,621.75,"es-dry_00227, es-dry_00229, es-dry_00231, es-dry_00232",0.012378223,3.49,0.0432,80.78703704,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa39_DO,DryoctESA39,0.0128
+77,278.5,413.5,"es-dry_00020, es-dry_00021, es-dry_00022, es-dry_00023",0.012674419,3.44,0.0436,78.89908257,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa04_DO,DryoctESA4,0.0592
+78,282.5,627.25,"es-dry_00233, es-dry_00234, es-dry_00236, es-dry_00238",0.012029178,7.54,0.0907,83.13120176,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa40_DO,DryoctESA40,0.012
+79,286.5,639,"es-dry_00245, es-dry_00246, es-dry_00247, es-dry_00250",0.013455882,4.08,0.0549,74.31693989,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa42_DO,DryoctESA42,0.013
+80,290.5,652,"es-dry_00257, es-dry_00260, es-dry_00261, es-dry_00262",0.01166,5,0.0583,85.76329331,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa44_DO,DryoctESA44,0.0566
+81,294.5,657.5,"es-dry_00264, es-dry_00265, es-dry_00266, es-dry_00267",0.011995012,4.01,0.0481,83.36798337,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa45_DO,DryoctESA45,0.016
+82,298.5,663.75,"es-dry_00270, es-dry_00271, es-dry_00272, es-dry_00274",0.012165992,4.94,0.0601,82.19633943,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa46_DO,DryoctESA46,0.0148
+83,302.5,676,"es-dry_00282, es-dry_00283, es-dry_00285, es-dry_00286",0.009816092,4.35,0.0427,101.8735363,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa48_DO,DryoctESA48,0.038
+84,306.5,419.25,"es-dry_00025, es-dry_00027, es-dry_00028, es-dry_00029",0.011877934,4.26,0.0506,84.18972332,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa05_DO,DryoctESA5,0.0504
+85,310.5,688,"es-dry_00293, es-dry_00296, es-dry_00297, es-dry_00298",0.012550336,4.47,0.0561,79.67914439,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa50_DO,DryoctESA50,0.019
+86,314.5,692.5,"es-dry_00299, es-dry_00300, es-dry_00301, es-dry_00302",0.013322259,3.01,0.0401,75.06234414,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa51_DO,DryoctESA51,0.0162
+87,318.5,699.25,"es-dry_00305, es-dry_00306, es-dry_00308, es-dry_00310",0.011116505,4.12,0.0458,89.95633188,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa52_DO,DryoctESA52,0.0504
+88,322.5,711.25,"es-dry_00317, es-dry_00319, es-dry_00320, es-dry_00321",0.012747036,5.06,0.0645,78.4496124,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa54_DO,DryoctESA54,0.0274
+89,326.5,724.5,"es-dry_00331, es-dry_00332, es-dry_00333, es-dry_00334",0.013070423,3.55,0.0464,76.50862069,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa56_DO,DryoctESA56,0.0284
+90,330.5,735,"es-dry_00341, es-dry_00342, es-dry_00343, es-dry_00346",0.010954198,5.24,0.0574,91.28919861,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa58_DO,DryoctESA58,0.0574
+91,334.5,742,"es-dry_00347, es-dry_00350, es-dry_00351, es-dry_00352",0.011951872,3.74,0.0447,83.6689038,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa59_DO,DryoctESA59,0.0254
+92,338.5,746.75,"es-dry_00353, es-dry_00354, es-dry_00355, es-dry_00357",0.012583979,3.87,0.0487,79.4661191,octopetala,Eagle Summit,NA,DO,DO_et,DO_esa,No,DO_es,esa60_DO,DryoctESA60,0.0388
+93,462.5,887,"murphyB-dry_00002, murphyB-dry_00003, murphyB-dry_00005, murphyB-dry_00006",0.010379651,13.17,0.1367,96.34235552,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb01_DO,DryoctMDB1,0.0292
+94,466.5,940.75,"murphyB-dry_00056, murphyB-dry_00057, murphyB-dry_00058, murphyB-dry_00060",0.012170767,6.91,0.0841,82.16409037,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb10_DO,DryoctMDB10,0.0238
+95,470.5,946.75,"murphyB-dry_00062, murphyB-dry_00063, murphyB-dry_00064, murphyB-dry_00066",0.009360987,8.92,0.0835,106.8263473,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb11_DO,DryoctMDB11,0.004
+96,474.5,952,"murphyB-dry_00067, murphyB-dry_00068, murphyB-dry_00069, murphyB-dry_00072",0.012879747,6.32,0.0814,77.64127764,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb12_DO,DryoctMDB12,0.0214
+97,478.5,957.75,"murphyB-dry_00073, murphyB-dry_00074, murphyB-dry_00075, murphyB-dry_00077",0.012756098,4.1,0.0523,78.39388145,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb13_DO,DryoctMDB13,0.0192
+98,482.5,965,"murphyB-dry_00079, murphyB-dry_00082, murphyB-dry_00083, murphyB-dry_00084",0.010673352,6.98,0.0745,93.69127517,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb14_DO,DryoctMDB14,0.0112
+99,486.5,971,"murphyB-dry_00086, murphyB-dry_00087, murphyB-dry_00089, murphyB-dry_00090",0.010447227,5.59,0.0584,95.71917808,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb15_DO,DryoctMDB15,0.0078
+100,490.5,977,"murphyB-dry_00092, murphyB-dry_00093, murphyB-dry_00095, murphyB-dry_00096",0.011692525,7.09,0.0829,85.52472859,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb16_DO,DryoctMDB16,0.0136
+101,494.5,982.5,"murphyB-dry_00097, murphyB-dry_00099, murphyB-dry_00100, murphyB-dry_00102",0.011973684,6.08,0.0728,83.51648352,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb17_DO,DryoctMDB17,0.0038
+102,498.5,988.5,"murphyB-dry_00104, murphyB-dry_00105, murphyB-dry_00106, murphyB-dry_00107",0.012362525,4.91,0.0607,80.88962109,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb18_DO,DryoctMDB18,0.0204
+103,502.5,995,"murphyB-dry_00109, murphyB-dry_00112, murphyB-dry_00113, murphyB-dry_00114",0.010900974,12.32,0.1343,91.73492182,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb19_DO,DryoctMDB19,0.0038
+104,506.5,892.5,"murphyB-dry_00007, murphyB-dry_00009, murphyB-dry_00010, murphyB-dry_00012",0.010632716,6.48,0.0689,94.04934688,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb02_DO,DryoctMDB2,0.0202
+105,510.5,1001,"murphyB-dry_00116, murphyB-dry_00117, murphyB-dry_00119, murphyB-dry_00120",0.012215054,4.65,0.0568,81.86619718,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb20_DO,DryoctMDB20,0.0044
+106,514.5,897.75,"murphyB-dry_00013, murphyB-dry_00014, murphyB-dry_00015, murphyB-dry_00017",0.010447761,4.02,0.042,95.71428571,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb03_DO,DryoctMDB3,0.0084
+107,518.5,904.25,"murphyB-dry_00019, murphyB-dry_00021, murphyB-dry_00022, murphyB-dry_00023",0.010432692,6.24,0.0651,95.85253456,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb04_DO,DryoctMDB4,0.016
+108,522.5,911,"murphyB-dry_00025, murphyB-dry_00028, murphyB-dry_00029, murphyB-dry_00030",0.010626741,7.18,0.0763,94.10222805,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb05_DO,DryoctMDB5,0.0216
+109,526.5,916.5,"murphyB-dry_00031, murphyB-dry_00033, murphyB-dry_00034, murphyB-dry_00036",0.011729201,6.13,0.0719,85.25730181,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb06_DO,DryoctMDB6,0.0054
+110,530.5,922.25,"murphyB-dry_00037, murphyB-dry_00038, murphyB-dry_00040, murphyB-dry_00042",0.012802102,5.71,0.0731,78.1121751,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb07_DO,DryoctMDB7,0.0094
+111,534.5,928.5,"murphyB-dry_00043, murphyB-dry_00045, murphyB-dry_00046, murphyB-dry_00048",0.01165812,5.85,0.0682,85.7771261,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb08_DO,DryoctMDB8,0.0072
+112,538.5,934.5,"murphyB-dry_00049, murphyB-dry_00051, murphyB-dry_00052, murphyB-dry_00054",0.012096506,6.01,0.0727,82.66850069,octopetala,Murphy Dome B,NA,DO,DO_mdb,DO_mdb,No,DO_mdb,mdb09_DO,DryoctMDB9,0.0056
+113,94.5,272.5,"dryoct-tm21_00122, dryoct-tm21_00123, dryoct-tm21_00124, dryoct-tm21_00125",0.012315789,3.8,0.0468,81.1965812,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi21_DO,DryoctTM21,0.0134
+114,98.5,277.75,"dryoct-tm22_00126, dryoct-tm22_00128, dryoct-tm22_00130, dryoct-tm22_00131",0.01173028,3.93,0.0461,85.2494577,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi22_DO,DryoctTM22,0.0442
+115,102.5,282.5,"dryoct-tm23_00132, dryoct-tm23_00133, dryoct-tm23_00134, dryoct-tm23_00135",0.013630952,3.36,0.0458,73.36244541,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi23_DO,DryoctTM23,0.047
+116,106.5,290.5,"dryoct-tm24_00140, dryoct-tm24_00141, dryoct-tm24_00142, dryoct-tm24_00143",0.012432432,3.7,0.046,80.43478261,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi24_DO,DryoctTM24,0.0352
+117,110.5,295.75,"dryoct-tm25_00144, dryoct-tm25_00146, dryoct-tm25_00148, dryoct-tm25_00149",0.011805338,6.37,0.0752,84.70744681,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi25_DO,DryoctTM25,0.0352
+118,114.5,300.5,"dryoct-tm26_00150, dryoct-tm26_00151, dryoct-tm26_00152, dryoct-tm26_00153",0.013682008,4.78,0.0654,73.08868502,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi26_DO,DryoctTM26,0.027
+119,118.5,307.5,"dryoct-tm27_00156, dryoct-tm27_00157, dryoct-tm27_00160, dryoct-tm27_00161",0.013273543,2.23,0.0296,75.33783784,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi27_DO,DryoctTM27,0.0182
+120,122.5,313.25,"dryoct-tm28_00162, dryoct-tm28_00163, dryoct-tm28_00165, dryoct-tm28_00167",0.011648936,3.76,0.0438,85.84474886,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi28_DO,DryoctTM28,0.0176
+121,126.5,320.75,"dryoct-tm29_00168, dryoct-tm29_00172, dryoct-tm29_00173, dryoct-tm29_00174",0.011658654,4.16,0.0485,85.77319588,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi29_DO,DryoctTM29,0.0164
+122,130.5,328.5,"dryoct-tm30_00178, dryoct-tm30_00179, dryoct-tm30_00180, dryoct-tm30_00181",0.011224944,4.49,0.0504,89.08730159,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi30_DO,DryoctTM30,0.0778
+123,134.5,333.75,"dryoct-tm31_00182, dryoct-tm31_00183, dryoct-tm31_00186, dryoct-tm31_00188",0.011321839,3.48,0.0394,88.3248731,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi31_DO,DryoctTM31,0.0536
+124,138.5,340.75,"dryoct-tm32_00189, dryoct-tm32_00191, dryoct-tm32_00193, dryoct-tm32_00194",0.013217116,6.31,0.0834,75.65947242,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi32_DO,DryoctTM32,0.1222
+125,142.5,346.5,"dryoct-tm33_00195, dryoct-tm33_00196, dryoct-tm33_00197, dryoct-tm33_00202",0.008649573,5.85,0.0506,115.6126482,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi33_DO,DryoctTM33,0.2426
+126,146.5,354.5,"dryoct-tm34_00204, dryoct-tm34_00205, dryoct-tm34_00206, dryoct-tm34_00207",0.011441242,4.51,0.0516,87.40310078,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi34_DO,DryoctTM34,0.0196
+127,150.5,360,"dryoct-tm35_00209, dryoct-tm35_00210, dryoct-tm35_00212, dryoct-tm35_00213",0.01162963,4.05,0.0471,85.98726115,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi35_DO,DryoctTM35,0.0144
+128,154.5,366.5,"dryoct-tm36_00216, dryoct-tm36_00217, dryoct-tm36_00218, dryoct-tm36_00219",0.01150463,4.32,0.0497,86.92152918,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi36_DO,DryoctTM36,0.0212
+129,158.5,372.25,"dryoct-tm37_00221, dryoct-tm37_00223, dryoct-tm37_00224, dryoct-tm37_00225",0.011479029,4.53,0.052,87.11538462,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi37_DO,DryoctTM37,0.0204
+130,162.5,377.5,"dryoct-tm38_00227, dryoct-tm38_00228, dryoct-tm38_00229, dryoct-tm38_00230",0.011145511,3.23,0.036,89.72222222,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi38_DO,DryoctTM38,0.0206
+131,166.5,383.25,"dryoct-tm39_00232, dryoct-tm39_00234, dryoct-tm39_00235, dryoct-tm39_00236",0.012763158,3.8,0.0485,78.35051546,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi39_DO,DryoctTM39,0.0536
+132,170.5,389.5,"dryoct-tm40_00239, dryoct-tm40_00240, dryoct-tm40_00241, dryoct-tm40_00242",0.011343284,4.02,0.0456,88.15789474,octopetala,Twelve Mile,NA,DO,DO_et,DO_tmi,No,DO_tm,tmi40_DO,DryoctTM40,0.0484
+133,542.5,1005.75,"wda-dry_00001, wda-dry_00002, wda-dry_00003, wda-dry_00005",0.010023256,4.3,0.0431,99.76798144,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda01_DO,DryoctWDA1,0.0048
+134,546.5,1060.25,"wda-dry_00055, wda-dry_00056, wda-dry_00058, wda-dry_00060",0.010326087,9.2,0.095,96.84210526,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda10_DO,DryoctWDA10,0.0072
+135,550.5,1067.25,"wda-dry_00062, wda-dry_00064, wda-dry_00065, wda-dry_00066",0.011603053,7.86,0.0912,86.18421053,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda11_DO,DryoctWDA11,0.0036
+136,554.5,1072.25,"wda-dry_00067, wda-dry_00068, wda-dry_00070, wda-dry_00072",0.010883459,5.32,0.0579,91.88255613,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda12_DO,DryoctWDA12,0.0026
+137,558.5,1078,"wda-dry_00073, wda-dry_00074, wda-dry_00075, wda-dry_00078",0.010013351,7.49,0.075,99.86666667,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda13_DO,DryoctWDA13,0.003
+138,562.5,1085.5,"wda-dry_00081, wda-dry_00082, wda-dry_00083, wda-dry_00084",0.009247507,11.03,0.102,108.1372549,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda14_DO,DryoctWDA14,0.0066
+139,566.5,1090,"wda-dry_00085, wda-dry_00086, wda-dry_00088, wda-dry_00089",0.009793205,6.77,0.0663,102.1116139,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda15_DO,DryoctWDA15,0.014
+140,570.5,1096.25,"wda-dry_00091, wda-dry_00092, wda-dry_00094, wda-dry_00096",0.010048309,6.21,0.0624,99.51923077,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda16_DO,DryoctWDA16,0.0084
+141,574.5,1101.75,"wda-dry_00097, wda-dry_00098, wda-dry_00099, wda-dry_00101",0.010273973,9.49,0.0975,97.33333333,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda17_DO,DryoctWDA17,0.0362
+142,578.5,1108,"wda-dry_00103, wda-dry_00104, wda-dry_00105, wda-dry_00108",0.010632235,11.23,0.1194,94.05360134,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda18_DO,DryoctWDA18,0.0194
+143,582.5,1114.5,"wda-dry_00110, wda-dry_00111, wda-dry_00112, wda-dry_00113",0.019755245,2.86,0.0565,50.61946903,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda19_DO,DryoctWDA19,0.01
+144,586.5,1012.5,"wda-dry_00007, wda-dry_00009, wda-dry_00010, wda-dry_00012",0.01047619,6.93,0.0726,95.45454545,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda02_DO,DryoctWDA2,0.008
+145,590.5,1120,"wda-dry_00115, wda-dry_00116, wda-dry_00118, wda-dry_00119",0.011789838,8.66,0.1021,84.81880509,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda20_DO,DryoctWDA20,0.0074
+146,594.5,1018.5,"wda-dry_00013, wda-dry_00014, wda-dry_00017, wda-dry_00018",0.007806859,11.08,0.0865,128.0924855,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda03_DO,DryoctWDA3,0.0132
+147,598.5,1024.5,"wda-dry_00020, wda-dry_00021, wda-dry_00022, wda-dry_00023",0.009634146,6.56,0.0632,103.7974684,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda04_DO,DryoctWDA4,0.0062
+148,602.5,1031.5,"wda-dry_00027, wda-dry_00028, wda-dry_00029, wda-dry_00030",0.010498177,8.23,0.0864,95.25462963,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda05_DO,DryoctWDA5,0.0154
+149,606.5,1036.5,"wda-dry_00031, wda-dry_00032, wda-dry_00035, wda-dry_00036",0.009673913,11.04,0.1068,103.3707865,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda06_DO,DryoctWDA6,0.0048
+150,610.5,1043,"wda-dry_00037, wda-dry_00040, wda-dry_00041, wda-dry_00042",0.009192118,10.15,0.0933,108.7888532,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda07_DO,DryoctWDA7,0.0062
+151,614.5,1049,"wda-dry_00044, wda-dry_00045, wda-dry_00047, wda-dry_00048",0.009806061,8.25,0.0809,101.9777503,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda08_DO,DryoctWDA8,0.0038
+152,618.5,1054,"wda-dry_00049, wda-dry_00050, wda-dry_00052, wda-dry_00053",0.009665354,10.16,0.0982,103.4623218,octopetala,Wickersham Dome A,NA,DO,DO_wda,DO_wda,No,DO_wda,wda09_DO,DryoctWDA9,0.0072
+153,402.5,1198.5,"wdb-dry_00074, wdb-dry_00075, wdb-dry_00076, wdb-dry_00077",0.012982456,3.99,0.0518,77.02702703,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb21_DO,DryoctWDB21,0.0948
+154,406.5,1204.5,"wdb-dry_00079, wdb-dry_00081, wdb-dry_00082, wdb-dry_00084",0.009648289,10.52,0.1015,103.6453202,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb22_DO,DryoctWDB22,0.0828
+155,410.5,1211,"wdb-dry_00085, wdb-dry_00088, wdb-dry_00089, wdb-dry_00090",0.011220779,3.85,0.0432,89.12037037,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb23_DO,DryoctWDB23,0.1108
+156,414.5,1216.5,"wdb-dry_00091, wdb-dry_00092, wdb-dry_00095, wdb-dry_00096",0.010046512,6.45,0.0648,99.53703704,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb24_DO,DryoctWDB24,0.0534
+157,417,1220,wdb-dry_00097,0.010646492,7.27,0.0774,93.92764858,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb25_DO,DryoctWDB25,0.0822
+158,419.5,1228.5,"wdb-dry_00104, wdb-dry_00105, wdb-dry_00106, wdb-dry_00107",0.010408163,6.86,0.0714,96.07843137,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb26_DO,DryoctWDB26,0.0446
+159,427.5,1241.5,"wdb-dry_00117, wdb-dry_00118, wdb-dry_00119, wdb-dry_00120",0.01,8.47,0.0847,100,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb28_DO,DryoctWDB28,0.0646
+160,430.5,1248.5,"wdb-dry_00125, wdb-dry_00126",0.008387097,7.75,0.065,119.2307692,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb29_DO,DryoctWDB29,0.068
+161,433.5,1251.5,"wdb-dry_00127, wdb-dry_00128, wdb-dry_00129, wdb-dry_00130",0.010917874,4.14,0.0452,91.59292035,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb30_DO,DryoctWDB30,0.0942
+162,436,1256,wdb-dry_00133,0.010345781,7.23,0.0748,96.65775401,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb31_DO,DryoctWDB31,0.0574
+163,438.5,1265,"wdb-dry_00139, wdb-dry_00142, wdb-dry_00143, wdb-dry_00144",0.011081081,6.66,0.0738,90.24390244,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb32_DO,DryoctWDB32,0.044
+164,442.5,1270,"wdb-dry_00145, wdb-dry_00146, wdb-dry_00148, wdb-dry_00149",0.012522727,4.4,0.0551,79.85480944,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb33_DO,DryoctWDB33,0.1742
+165,446.5,1282,"wdb-dry_00157, wdb-dry_00158, wdb-dry_00160, wdb-dry_00161",0.010498084,10.44,0.1096,95.25547445,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb35_DO,DryoctWDB35,0.0436
+166,450.5,1287.75,"wdb-dry_00163, wdb-dry_00164, wdb-dry_00165, wdb-dry_00167",0.010769231,3.12,0.0336,92.85714286,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb36_DO,DryoctWDB36,0.0964
+167,454.5,1306.5,"wdb-dry_00181, wdb-dry_00183, wdb-dry_00184, wdb-dry_00186",0.010088889,6.75,0.0681,99.11894273,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb39_DO,DryoctWDB39,0.085
+168,458.5,1312.5,"wdb-dry_00188, wdb-dry_00189, wdb-dry_00190, wdb-dry_00191",0.01146789,4.36,0.05,87.2,octopetala,Wickersham Dome B,NA,DO,DO_wdb,DO_wdb,No,DO_wdb,wdb40_DO,DryoctWDB40,0.1076
